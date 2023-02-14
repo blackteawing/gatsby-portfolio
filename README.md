@@ -6,5 +6,5 @@
 <h1 align="center">
   Gatsby portfolio website
 </h1>
-<p>try it here
+<p>Try it here
 </p>https://my-portfolio-vincent.vercel.app
