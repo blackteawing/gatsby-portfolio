@@ -7,5 +7,4 @@
   Gatsby portfolio website
 </h1>
 <p>try it here
-</p>
-https://my-portfolio-vincent.vercel.app
+</p>https://my-portfolio-vincent.vercel.app
